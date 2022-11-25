@@ -1,0 +1,7 @@
+https://soulno.tistory.com/57                     - 무료 html 탬플릿
+https://laragon.org/download/                   -  웹서버 DB서버 동시가능
+https://www.cafe24.com/infra/web-hosting/ - 무료 쇼핑몰, 저렴한 호스팅
+https://www.dothome.co.kr/web/free/index.php - 무료 호스팅(서버임대)
+https://kr.linkedin.com/                             - 구직채용
+
+과제 - 깃허브업로드 자소
